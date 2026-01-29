@@ -1,0 +1,23 @@
+.table1 {
+    border-collapse: collapse; /* merge borders */
+  width: 30%;
+}
+
+.table1 th, 
+.table1 td {
+  border: 1px solid black;  /* border */
+  padding: 4px;
+  text-align: left;
+}
+
+.table2 {
+    border-collapse: collapse; /* merge borders */
+  width: 30%;
+}
+
+.table2 th, 
+.table2 td {
+  border: 1px solid black;  /* border */
+  padding: 4px;
+  text-align: left;
+}
